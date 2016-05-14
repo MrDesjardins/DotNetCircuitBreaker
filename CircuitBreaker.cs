@@ -105,7 +105,6 @@ namespace DotNetCircuitBreaker
             }
             catch (Exception e)
             {
-                //System.Diagnostics.Debugger.Launch();
                 this.exceptionFromLastAttemptCall = e;
                 lock(this.monitor)
                 {
@@ -133,7 +132,6 @@ namespace DotNetCircuitBreaker
         {
             lock (this.monitor)
             {
-                Debugger.Launch();
                 this.MoveToOpenState();
             }
         }

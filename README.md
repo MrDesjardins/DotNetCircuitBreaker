@@ -1,8 +1,8 @@
-# Asp.Net Mvc Easy Routing
+# .Net Circuit Breaker
 
 [![Build Status](https://travis-ci.org/MrDesjardins/DotNetCircuitBreaker.svg?branch=master)](https://travis-ci.org/MrDesjardins/DotNetCircuitBreaker)
 
-[![DotNetCircuitBreaker MyGet Build Status](https://www.myget.org/BuildSource/Badge/DotNetCircuitBreaker?identifier=6e094bf3-a00b-4fff-a9de-215d8db5e30f)](https://www.myget.org/)
+[![dotnetcircuitbreaker MyGet Build Status](https://www.myget.org/BuildSource/Badge/dotnetcircuitbreaker?identifier=775b1f0a-d66e-4fde-8df1-dc3d2ccb72fe)](https://www.myget.org/)
 
 [![NuGet Badge](https://buildstats.info/nuget/DotNetCircuitBreaker)](https://www.nuget.org/packages/DotNetCircuitBreaker/)
 
