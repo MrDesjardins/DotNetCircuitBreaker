@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>https://github.com/MrDesjardins/DotNetCircuitBreaker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>circuit breaker</tags>
+  </metadata>
+  <files>
+		<file src="bin\Release\DotNetCircuitBreaker.dll" target="lib" />
+		<file src="bin\Release\DotNetCircuitBreaker.pdb" target="lib" />
+  </files>
+</package>
