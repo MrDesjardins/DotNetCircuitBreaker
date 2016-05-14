@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCircuitBreaker", "DotNetCircuitBreaker.csproj", "{87158B60-4CCE-445B-BF24-0E269F4AB4F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCircuitBreakerUnitTest", "..\DotNetCircuitBreakerUnitTest\DotNetCircuitBreakerUnitTest.csproj", "{AFAD0D64-3385-4D5C-958B-1A8382178D83}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCircuitBreakerUnitTest", "DotNetCircuitBreakerUnitTest\DotNetCircuitBreakerUnitTest.csproj", "{7C9E69C5-CF3A-47B8-87BB-34B6ACD1DA10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{87158B60-4CCE-445B-BF24-0E269F4AB4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87158B60-4CCE-445B-BF24-0E269F4AB4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87158B60-4CCE-445B-BF24-0E269F4AB4F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFAD0D64-3385-4D5C-958B-1A8382178D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFAD0D64-3385-4D5C-958B-1A8382178D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFAD0D64-3385-4D5C-958B-1A8382178D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFAD0D64-3385-4D5C-958B-1A8382178D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9E69C5-CF3A-47B8-87BB-34B6ACD1DA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9E69C5-CF3A-47B8-87BB-34B6ACD1DA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9E69C5-CF3A-47B8-87BB-34B6ACD1DA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9E69C5-CF3A-47B8-87BB-34B6ACD1DA10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
